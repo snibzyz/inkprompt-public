@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "about": "INKREALM logo - transparent PNG ~1024px. id = <shape>-<variant>: logo (mark) / typo (lettering) / logo_typo (both); color / white / black / white_orange / mono_white / mono_black",
+  "logos": [
+    {
+      "id": "logo-color",
+      "file": "logo-color.png",
+      "sha256": "ccf1533a5e6cf25103a499a0bf804bf0d69105caa65d1807ce794f18d266bba8",
+      "bytes": 188396
+    },
+    {
+      "id": "logo-mono_black",
+      "file": "logo-mono_black.png",
+      "sha256": "91ac655b054632a51d547403b07deb4848d694dfdfea4fa14e29446c2a9f396c",
+      "bytes": 70203
+    },
+    {
+      "id": "logo-mono_white",
+      "file": "logo-mono_white.png",
+      "sha256": "4fab793b34785e4ca54996b98e5700f64bb43fe08cd127df36cb10eef84761d3",
+      "bytes": 123940
+    },
+    {
+      "id": "logo-white",
+      "file": "logo-white.png",
+      "sha256": "76ac7524847e4680da9762aef5a1096eb5b1095366dc952d76a0e2407dcf594c",
+      "bytes": 160619
+    },
+    {
+      "id": "logo_typo-black",
+      "file": "logo_typo-black.png",
+      "sha256": "c3498f1a4f2a7fba469933d17cdcfba671039e91308b0325770ea87a14a21f83",
+      "bytes": 33421
+    },
+    {
+      "id": "logo_typo-color",
+      "file": "logo_typo-color.png",
+      "sha256": "7daf4c33cca70e1c5ac5148d292ffe7f86fe635c53b0ffee4ae4cd0a7f9b5d11",
+      "bytes": 78974
+    },
+    {
+      "id": "logo_typo-white",
+      "file": "logo_typo-white.png",
+      "sha256": "bf5d8b21850d4d0f0e58e1ea31d6e56d50e80f78a6a03732305136685e479f0f",
+      "bytes": 68236
+    },
+    {
+      "id": "logo_typo-white_orange",
+      "file": "logo_typo-white_orange.png",
+      "sha256": "0df8dec654c00859bab017af38b420f118c845aa833ce921be43213c301e180a",
+      "bytes": 79666
+    },
+    {
+      "id": "typo-black",
+      "file": "typo-black.png",
+      "sha256": "32a572df3b798aaa8f2a6b42a72a68cedb1070a1179d13224baee1fd18d46beb",
+      "bytes": 25946
+    },
+    {
+      "id": "typo-color",
+      "file": "typo-color.png",
+      "sha256": "38bb0bb960f5f994dd18d8ff8d25641d2fb4c55bf8661b159f8efb7b440c2d82",
+      "bytes": 45045
+    },
+    {
+      "id": "typo-white",
+      "file": "typo-white.png",
+      "sha256": "c1994afb6b49c257ae27f39c480dbc82686f8ae4098e62e9414797588148e208",
+      "bytes": 38294
+    },
+    {
+      "id": "typo-white_orange",
+      "file": "typo-white_orange.png",
+      "sha256": "6c1d4ba939d4ace80eae63d97ab6a2fdf3a5717bfea8a64578e73b6a5e349a03",
+      "bytes": 48605
+    }
+  ]
+}
