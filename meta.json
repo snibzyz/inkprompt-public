@@ -1,9 +1,9 @@
 {
   "format": 1,
-  "source_sha": "7e363384d2272c84209c57a9835b5aa9777c247e",
-  "built_at": "2026-11-27T16:27:06.908Z",
-  "content_hash": "31bf9d8de5aa8387fde90d6ab2b5345225d7d5361dd01ba693e1d0f6a0dd0cca",
+  "source_sha": "0fdb7257faa633a549136fbdf42257890d9384ef",
+  "built_at": "2026-11-27T16:30:42.827Z",
+  "content_hash": "f342d4da3ac2c700ff655c678bd336cc0cd710e6aed2f1d5d4f87487d4a1e27f",
   "count": 47,
-  "bytes": 3421413,
-  "bundle_sha256": "87a048c850b064cb9ad71d08a958a091955c67428270097a1df9590321b47048"
+  "bytes": 3426863,
+  "bundle_sha256": "72e4bb402c130f204b45a47e448511b2b0b67d001e570a4d3c83d356dc7e8cf8"
 }
